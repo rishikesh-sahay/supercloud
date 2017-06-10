@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Event type="UDP_Flood">
+    <Condition>
+       <Flow class="Malicious"/>
+    </Condition>
+    <Actions action="Drop">
+    </Actions>      
+</Event>

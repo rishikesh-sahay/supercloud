@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Event type="ICMP_Flood">
+    <Condition>
+       <Flow class="suspicious"/>
+	   <Impact severity="Low"/>
+    </Condition>
+    <Actions action="Redirect">
+    </Actions>      
+</Event>
