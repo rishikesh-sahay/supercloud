@@ -10,4 +10,5 @@ Instructions are provided on the repository to install the RYU.
 
 ##### Libraries to import to execute the code.
 It requires to import httplib, urlparse, etree and ElementTree
-script can be executed with the command: ryu-manager simple_switch_isp.py
+script can be executed with the command:
+ryu-manager simple_switch_isp.py
