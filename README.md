@@ -12,5 +12,6 @@ Instructions are provided on the repository to install the RYU.
 It requires to import httplib, urlparse, etree and ElementTree
 User needs to download the policy files which contain the security policies. Policy files can be downloaded from our repository. HHowever, user can also write his own policies following the example given in our policy file.
 Link to download the policy file is:
+https://github.com/rishikesh-sahay/supercloud/blob/master/security.xml
 script can be executed with the command:
 ryu-manager simple_switch_isp.py
